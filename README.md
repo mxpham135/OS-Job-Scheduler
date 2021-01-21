@@ -1,5 +1,5 @@
 # OS-Job-Scheduler
-Simulating four job scheduler of the Operating Systems; 
+Simulating four job schedulers of the Operating Systems; 
 - First-Come-First-Serve (FCFS)
 - Shortest-Job-First (SJF)
 - Round-Robin with Time Slice = 2 (RR-2)
